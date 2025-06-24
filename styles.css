@@ -1,0 +1,62 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  text-align: center;
+  padding: 30px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 34px;
+  color: #004aad;
+  margin-bottom: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin: 10px 0;
+}
+
+button {
+  background-color: #004aad;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #00307a;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #666;
+}
+#faq .pregunta {
+  text-align: left;
+  max-width: 700px;
+  margin: 0 auto 20px;
+  padding: 15px;
+  background-color: #eef2f8;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+#faq h2, #instagram h2 {
+  color: #004aad;
+  margin-bottom: 20px;
+}
+
